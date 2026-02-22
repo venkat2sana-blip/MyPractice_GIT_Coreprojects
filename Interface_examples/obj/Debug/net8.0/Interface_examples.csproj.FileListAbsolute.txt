@@ -1,0 +1,14 @@
+E:\17022026\Interface_examples\Interface_examples\bin\Debug\net8.0\Interface_examples.exe
+E:\17022026\Interface_examples\Interface_examples\bin\Debug\net8.0\Interface_examples.deps.json
+E:\17022026\Interface_examples\Interface_examples\bin\Debug\net8.0\Interface_examples.runtimeconfig.json
+E:\17022026\Interface_examples\Interface_examples\bin\Debug\net8.0\Interface_examples.dll
+E:\17022026\Interface_examples\Interface_examples\bin\Debug\net8.0\Interface_examples.pdb
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.AssemblyInfoInputs.cache
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.AssemblyInfo.cs
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.csproj.CoreCompileInputs.cache
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.dll
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\refint\Interface_examples.dll
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.pdb
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.genruntimeconfig.cache
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\ref\Interface_examples.dll
