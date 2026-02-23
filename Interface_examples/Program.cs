@@ -1,12 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
+using System.Runtime.CompilerServices;
+
 class Program
 {
     static void Main(string[] args)
     {
        Productservices pobj = new Productservices();
        Console.WriteLine(pobj.Productdetails() + ' '+ pobj.Getallproducts());
+
+        Animal myanimal =new Dog();
+        myanimal.display();
+        myanimal.animalsound();
     }
 }
 
@@ -27,6 +33,30 @@ public class Productservices:Iproductservices
     }
 
 }
+
+// abstraction class implementation
+
+abstract class Animal
+{
+    public abstract void animalsound();
+
+    public void display()
+    {
+        Console.WriteLine("Abstract class in general method");
+    }
+}
+
+//Abstract method - must be implemented by derived classes
+//// Concrete method - shared behavior
+class Dog : Animal
+{
+    public override void animalsound()
+    {
+        Console.WriteLine("Animal sounds are very bad");
+    }
+}
+
+
 
 
 

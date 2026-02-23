@@ -12,3 +12,4 @@ E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\refint\Interf
 E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.pdb
 E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.genruntimeconfig.cache
 E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\ref\Interface_examples.dll
+E:\17022026\Interface_examples\Interface_examples\obj\Debug\net8.0\Interface_examples.sourcelink.json
