@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\17022026\\Interface_examples\\",
+  "WorkspaceRootPath": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9C8CA72-9C11-4C1A-A09C-BBFB683198DD}|Interface_examples\\Interface_examples.csproj|e:\\17022026\\interface_examples\\interface_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C8CA72-9C11-4C1A-A09C-BBFB683198DD}|Interface_examples\\Interface_examples.csproj|f:\\cloned_0103_26\\mypractice_git_coreprojects\\interface_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C8CA72-9C11-4C1A-A09C-BBFB683198DD}|Interface_examples\\Interface_examples.csproj|solutionrelative:interface_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\17022026\\Interface_examples\\Interface_examples\\Program.cs",
+              "DocumentMoniker": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Program.cs",
               "RelativeDocumentMoniker": "Interface_examples\\Program.cs",
-              "ToolTip": "E:\\17022026\\Interface_examples\\Interface_examples\\Program.cs",
+              "ToolTip": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Program.cs",
               "RelativeToolTip": "Interface_examples\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-22T13:12:38.097Z",
               "EditorCaption": ""

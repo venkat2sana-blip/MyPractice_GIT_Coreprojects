@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\17022026\\Interface_examples\\Interface_examples\\Interface_examples.csproj": {}
+    "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Interface_examples.csproj": {}
   },
   "projects": {
-    "E:\\17022026\\Interface_examples\\Interface_examples\\Interface_examples.csproj": {
+    "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Interface_examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\17022026\\Interface_examples\\Interface_examples\\Interface_examples.csproj",
+        "projectUniqueName": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Interface_examples.csproj",
         "projectName": "Interface_examples",
-        "projectPath": "E:\\17022026\\Interface_examples\\Interface_examples\\Interface_examples.csproj",
+        "projectPath": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\Interface_examples.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\17022026\\Interface_examples\\Interface_examples\\obj\\",
+        "outputPath": "F:\\cloned_0103_26\\MyPractice_GIT_Coreprojects\\Interface_examples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
